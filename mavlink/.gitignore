@@ -1,0 +1,23 @@
+
+# unix files
+*~
+
+# eclipse
+.settings/
+build/
+.cproject
+.project
+
+# build
+*.o
+*.d
+mavlink_control
+mavlink_control_old
+
+# mac
+.DS_Store
+
+
+/build/
+/Debug/
+
